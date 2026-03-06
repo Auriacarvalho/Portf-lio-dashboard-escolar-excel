@@ -1,60 +1,130 @@
-# dashboard-escolar-excel
-Projeto desenvolvido para controle de pagamentos de mensalidades escolares e identificação de inadimplência.
-# 📊 Dashboard Financeiro Escolar
 
-Projeto desenvolvido para controle de pagamentos de mensalidades escolares e identificação de inadimplência.
+📊 Dashboard Financeiro Escolar
 
-## 🎯 Problema
+Projeto desenvolvido para controle de pagamentos de mensalidades escolares e identificação de inadimplência, utilizando Excel e análise de dados para facilitar a gestão financeira.
 
-Instituições escolares ou cantinas muitas vezes realizam o controle financeiro de forma manual, dificultando:
+Este projeto demonstra habilidades de análise de dados, automação de processos administrativos e construção de dashboards interativos.
 
-- identificar responsáveis inadimplentes
-- acompanhar pagamentos mensais
-- visualizar indicadores financeiros
-- enviar cobranças rapidamente
+🎯 Problema de Negócio
 
-## 💡 Solução
+Instituições escolares, cantinas e pequenos estabelecimentos educacionais frequentemente realizam o controle financeiro de forma manual, o que gera dificuldades como:
 
-Desenvolvimento de uma planilha em Excel com dashboard interativo para:
+dificuldade em identificar responsáveis inadimplentes
 
-- controle de pagamentos
-- identificação automática de inadimplência
-- visualização de indicadores financeiros
-- geração de links para envio de cobrança via WhatsApp
+baixa visibilidade sobre pagamentos mensais
 
-## 🛠 Ferramentas utilizadas
+falta de indicadores financeiros claros
 
-- Microsoft Excel
-- Fórmulas avançadas
-- Tabelas dinâmicas
-- Dashboard interativo
-- Integração com WhatsApp (wa.me)
+demora para realizar cobranças
 
-## 📊 Indicadores analisados
+risco de erros no controle financeiro
 
-- Total de valores recebidos
-- Total em aberto
-- Responsáveis em atraso
-- Pagamentos por mês
-- Status de pagamento (Em dia / Em atraso)
+💡 Solução Desenvolvida
 
-## 📷 Dashboard
+Foi desenvolvido um dashboard interativo em Excel que permite:
 
-![Dashboard](https://github.com/Auriacarvalho/dashboard-escolar-excel/blob/main/dashboard-escolar-excel.xlsx.xlsx)
+✔ controlar pagamentos mensais
+✔ identificar automaticamente responsáveis em atraso
+✔ visualizar indicadores financeiros em tempo real
+✔ gerar links automáticos para envio de cobrança via WhatsApp
+✔ facilitar a tomada de decisão financeira
 
-## 📈 Insights
+🛠 Ferramentas Utilizadas
+
+Microsoft Excel
+
+Tabelas Dinâmicas
+
+Fórmulas Avançadas
+
+Dashboard Interativo
+
+Integração com WhatsApp (wa.me)
+
+📊 Indicadores Monitorados
+
+O dashboard apresenta os seguintes indicadores:
+
+💰 Total de valores recebidos
+
+⚠️ Total de valores em aberto
+
+👥 Quantidade de responsáveis inadimplentes
+
+📅 Pagamentos por mês
+
+📊 Status de pagamento (Em dia / Em atraso)
+
+📷 Dashboard
+
+Adicione aqui a imagem do dashboard:
+
+/imagens/dashboard.png
+
+Exemplo:
+
+📈 Insights Obtidos
 
 A análise permite identificar rapidamente:
 
-- responsáveis com pagamentos em atraso
-- meses com maior inadimplência
-- volume total de valores em aberto
+responsáveis com pagamentos em atraso
 
-## 🚀 Impacto do Projeto
+meses com maior índice de inadimplência
+
+volume total de valores em aberto
+
+evolução dos pagamentos ao longo do tempo
+
+🚀 Impacto do Projeto
 
 Este sistema permite:
 
-- melhorar o controle financeiro
-- agilizar cobranças
-- visualizar indicadores financeiros de forma rápida
-- reduzir tempo de gestão administrativa
+melhorar o controle financeiro
+
+reduzir tempo gasto com tarefas administrativas
+
+facilitar o acompanhamento de inadimplência
+
+agilizar o processo de cobrança
+
+apoiar decisões financeiras
+
+📂 Estrutura do Projeto
+dashboard-escolar-excel
+│
+├── dados
+│   └── base_pagamentos.xlsx
+│
+├── dashboard
+│   └── dashboard_escolar.xlsx
+│
+├── imagens
+│   └── dashboard.png
+│
+└── README.md
+🔗 Funcionalidade Extra
+
+O projeto possui integração com WhatsApp, permitindo gerar automaticamente um link para envio de mensagens de cobrança:
+
+https://wa.me/5511999999999?text=mensagem
+
+Isso agiliza o contato com responsáveis inadimplentes.
+
+👩‍💻 Sobre o Projeto
+
+Projeto desenvolvido para demonstrar habilidades em:
+
+Análise de dados
+
+Construção de dashboards
+
+Organização de dados
+
+Automação de processos administrativos
+
+📌 Autor
+
+Auria Tamiris de Carvalho Manoel
+
+🔗 GitHub
+https://github.com/Auriacarvalho
