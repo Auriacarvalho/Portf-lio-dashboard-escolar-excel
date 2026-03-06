@@ -40,7 +40,7 @@ Desenvolvimento de uma planilha em Excel com dashboard interativo para:
 
 ## 📷 Dashboard
 
-![Dashboard](imagens/dashboard.png)
+![Dashboard](https://github.com/Auriacarvalho/dashboard-escolar-excel/blob/main/dashboard-escolar-excel.xlsx.xlsx)
 
 ## 📈 Insights
 
