@@ -59,7 +59,7 @@ O dashboard apresenta os seguintes indicadores:
 
 Adicione aqui a imagem do dashboard:
 
-/imagens/dashboard.png
+https://raw.githubusercontent.com/Auriacarvalho/dashboard-escolar-excel/refs/heads/main/IMAGENDASBORD.jfif
 
 Exemplo:
 
