@@ -1,5 +1,5 @@
 
-📊 Dashboard Financeiro Escolar
+📊 Portfólio Dashboard Financeiro Escolar
 
 Projeto desenvolvido para controle de pagamentos de mensalidades escolares e identificação de inadimplência, utilizando Excel e análise de dados para facilitar a gestão financeira.
 
