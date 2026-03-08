@@ -9,3 +9,11 @@ Indicadores analisados
 • valor pago
 • valor em atraso
 • quantidade de inadimplentes
+Estrutura do projeto
+
+planilha
+dashboard_cantina.xlsx
+
+imagens
+dashboard.png
+inadimplentes.png
